@@ -1,5 +1,8 @@
+<p align="center">
+Calculadora: HTML, CSS e JavaScript
+</p>
 <h1 align="center">
-  Calculadora: HTML, CSS e JavaScript.
+    <img src="https://user-images.githubusercontent.com/101367198/180683048-fc9d3ce4-1de6-4410-b2a5-e2a61d96f828.png" width="300px">
 </h1>
 
 <p align="center">
